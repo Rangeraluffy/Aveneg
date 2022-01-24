@@ -7,6 +7,7 @@ import styled from "styled-components";
 const Container = styled.div`
   height: 60px;
   font-size: 26px;
+  padding-bottom: 20px;
 `;
 
 const Wrapper = styled.div`
