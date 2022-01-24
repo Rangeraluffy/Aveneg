@@ -6,6 +6,7 @@ import styled from "styled-components";
 
 const Container = styled.div`
   height: 60px;
+  font-size: 26px;
 `;
 
 const Wrapper = styled.div`
@@ -13,6 +14,7 @@ const Wrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
+
 `;
 
 const Left = styled.div`
@@ -46,6 +48,7 @@ const Center = styled.div`
 
 const Logo = styled.h1`
   font-weight: bold;
+  cursor: pointer;
 `;
 
 const Right = styled.div`
@@ -56,7 +59,7 @@ const Right = styled.div`
 `;
 
 const MenuItem = styled.div`
-  font-size: 14px;
+  font-size: 18px;
   cursor: pointer;
   margin-left: 25px;
 `;
@@ -69,7 +72,7 @@ const Navbar = () => {
         <Language>FR</Language>
           <SearchContainer>
             <Input placeholder="Search" />
-            <Search style={{ color: "gray", fontSize: 16 }} />
+            <Search style={{ color: "gray", fontSize: 18 }} />
           </SearchContainer>
         </Left>
         <Center><Logo>AVENEG.</Logo></Center>
