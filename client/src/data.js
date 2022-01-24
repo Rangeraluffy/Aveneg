@@ -39,3 +39,38 @@ export const sliderItems = [
       title: "LIGHT",
     },
   ];
+
+  export const popularProducts = [
+    {
+      id:1,
+      img:"https://cdn.discordapp.com/attachments/286902629643321344/851821268650819624/Lila_Face_Classic.png",
+    },
+    {
+      id:2,
+      img:"https://cdn.discordapp.com/attachments/286902629643321344/851821261423640626/Lila_Dos_Rose.png",
+    },
+    {
+      id:3,
+      img:"https://cdn.discordapp.com/attachments/286902629643321344/851821268650819624/Lila_Face_Classic.png",
+    },
+    {
+      id:4,
+      img:"https://cdn.discordapp.com/attachments/286902629643321344/851821261423640626/Lila_Dos_Rose.png",
+    },
+    {
+      id:5,
+      img:"https://cdn.discordapp.com/attachments/286902629643321344/851821268650819624/Lila_Face_Classic.png",
+    },
+    {
+      id:6,
+      img:"https://cdn.discordapp.com/attachments/286902629643321344/851821261423640626/Lila_Dos_Rose.png",
+    },
+    {
+      id:7,
+      img:"https://cdn.discordapp.com/attachments/935201353150648340/935201971386859540/shoes1.png",
+    },
+    {
+      id:8,
+      img:"https://cdn.discordapp.com/attachments/935201353150648340/935202048759177296/shoes3.png",
+    },
+  ]
