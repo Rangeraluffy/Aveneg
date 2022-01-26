@@ -8,9 +8,11 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
+  Redirect
 } from "react-router-dom";
 
 const App = () => {
+  const user = true
   return (
     <Router>
       <Switch>
@@ -27,9 +29,10 @@ const App = () => {
           <Cart />
         </Route>
         <Route path="/login">
-          <Login />
+        {user ? <Redirect to="/"/> : <Login/>}
         </Route>
         <Route path="/register">
+        {user ? <Redirect to="/"/> : <Register/>}
           <Register />
         </Route>
       </Switch>
