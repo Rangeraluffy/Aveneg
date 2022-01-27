@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://cdn.discordapp.com/attachments/286902629643321344/851821452856262656/BASIC_DOS_LIN_BEIGE_-_copie_1080x-Nike-Man.jpg",
+      img: "https://cdn.discordapp.com/attachments/286902629643321344/936282722295496804/unknown.png",
       title: "SUMMER SALE",
       desc: "GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
@@ -31,7 +31,7 @@ export const sliderItems = [
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: "https://cdn.discordapp.com/attachments/286902629643321344/936282722295496804/unknown.png",
       title: "HOODIES",
       cat:"hoodies"
     },
