@@ -20,3 +20,4 @@ To get the Node server running locally:
 - [Stripe]() - Payment.
 - [React-Router-Dom. V5](https://github.com/remix-run/react-router) - Link all pages for my e-commerce Aveneg.
 - [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
+- [Reduxjs](https://github.com/reduxjs/redux) - Redux is a predictable state container for JavaScript apps. (Not to be confused with a WordPress framework .
